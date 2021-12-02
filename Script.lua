@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("The loadstring has been changed because the developer no longer has access to this github account, Please join our Discord server and Get the new loadstring - [discord.gg/79AXerzp3E]")
+game:GetService("Players").LocalPlayer:Kick("The loadstring has been changed because the developer no longer has access to this github account, Please join our Discord server and Get the new loadstring - [Discord.gg/KEejP9dsZu]")
